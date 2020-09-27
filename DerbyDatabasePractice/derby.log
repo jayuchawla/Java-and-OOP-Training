@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Sun Sep 27 10:43:50 IST 2020:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.11.1.1 - (1616546): instance a816c00e-0174-cdfb-41fd-000005272f80 
+on database directory F:\STS\spring-tool-suite-4-4.8.0.RELEASE-e4.17.0-win32.win32.x86_64.self-extracting\Training\Training\DAY_8\DerbyDatabasePractice\jayu with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@506e6d5e 
+Loaded from file:/F:/STS/db-derby-10.11.1.1-bin/lib/derby.jar
+java.vendor=Oracle Corporation
+java.runtime.version=14.0.2+12-46
+user.dir=F:\STS\spring-tool-suite-4-4.8.0.RELEASE-e4.17.0-win32.win32.x86_64.self-extracting\Training\Training\DAY_8\DerbyDatabasePractice
+os.name=Windows 7
+os.arch=amd64
+os.version=6.1
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
